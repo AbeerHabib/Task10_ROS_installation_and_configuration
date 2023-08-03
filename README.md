@@ -1,4 +1,4 @@
-# ROS_installation_and_configuration
+# ROS installation and configuration on ubuntu 18.04
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/85819577/127329673-cd329a99-e434-40ce-90a4-e8e92322ff6d.png" width="120" height="55" /></p>
@@ -7,11 +7,11 @@ What is **ROS**? The Robot Operating System (ROS) is a set of software libraries
 It connects all the devices by one operating system which can control them once and reduce layers of control, the benefit is that the synchronization will be more faster and the control will be more better.
 
 
-Main Steps:
-1. downloading VMware (Enables users to set up virtual machines on a single physical device)
-2. downloading Ubuntu 18.04 desktop image
-3. creating the virtual machine
-4. installing ROS melodic on ubuntu
+The main steps involved in setting up ROS are as follows:
+1. Downloading VMware (Enables users to set up virtual machines on a single physical device)
+2. Downloading Ubuntu 18.04 desktop image
+3. Creating the virtual machine
+4. Installing ROS melodic on Ubuntu
 5. Preparing ROS
 6. Installing the package arduino_robot_arm
 
@@ -22,7 +22,7 @@ ____________________________________________________________________
 
 # 1. Downloading VMware
 
-i've download vmware instead of virtual box, you can download it from this link:
+I've download vmware instead of virtual box, you can download it from this link:
 
 https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
 
