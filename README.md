@@ -1,4 +1,4 @@
-# ROS installation and configuration on ubuntu 18.04
+# ROS installation and configuration on Ubuntu 18.04
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/85819577/127329673-cd329a99-e434-40ce-90a4-e8e92322ff6d.png" width="120" height="55" /></p>
